@@ -38,8 +38,9 @@ When taking the log of population, it is evident that the district of Jebel Sama
 
 ## An Examination of Predictions of Populations versus Actual
 ### Syria
-! [](part1stretch1.png)
-!
+! [](population_logpop.png)
+! [](diffpop_logpop)
+! [](diffpop_logpop)
 
 ### Damascus
 ! [](damascus_diff colored.png)
