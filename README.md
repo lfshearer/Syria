@@ -38,11 +38,19 @@ When taking the log of population, it is evident that the district of Jebel Sama
 
 ## An Examination of Predictions of Populations versus Actual
 ### Syria
-! [](population_logpop.png)
-! [](diffpop_logpop)
-! [](diff_logpop.png)
-! [](cellStats)
 
+![](population_logpop.png)
+
+![](diffpop_logpop)
+
+![](diff_logpop.png)
+
+![](cellStats)
+
+The model that produces the best results is the response variable logpop with the predictors being the mean of covariates. Almost all of Syria is green, indicating the population prediction was quite close to the actual. In addition, the absolute value of the difference is 27974215, the lowest of each of the predictors. There is a slightly raised area around Damascus, which was the area with the most inaccurate prediction. This is reasonable considering Damascus has a massive population, and therefore the most opportunity for discrepancy.
 
 ### Damascus
-! [](damascus_diff colored.png)
+
+![](https://github.com/lfshearer/final_project/blob/master/damascus_diff%20colored.png)
+![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-10-13%20at%207.44.42%20PM.png)
+
