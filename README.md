@@ -14,6 +14,7 @@ The following investigates The Arab Republic of Syria. It includes administrativ
 ## Log of Population of Syria's Districts
 ![](part2_stretchgoal2.png)
 ![](ezgif.com-crop.gif)
-**When taking the log of population, it is evident that the district of Jebel Saman in Aleppo is the most highly populated because it contains the city of Aleppo. The districts of Damascus and Homs (located within the governorate of Homs) have the second largest logs of population.
+
+**When taking the log of population, it is evident that the district of Jebel Saman in Aleppo is the most highly populated because it contains the city of Aleppo. The districts of Damascus and Homs (located within the governorate of Homs) have the second largest logs of population.**
 *Note: there is a discrepancy in the district boundaries between maps. The data I originally used was from HDX and had 62 districts, but was corrupt. I switched to data from GADM that has 60 districts. 
 
