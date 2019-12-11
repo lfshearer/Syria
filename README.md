@@ -23,6 +23,7 @@ When comparing districts within governorates, the five largest are as follows:
 3. Homs (Homs)
 4. Rural Damascus (Rural Damascus)
 5. Hama (Hama)
+
 These districts are concentrated on the western end of Syria, which borders Palestine, Lebanon, the Mediterranean Sea, and Turkey. They are concentrated around the 2 largest cities, Aleppo to the North, and Damascus to the South. 
 
 
@@ -37,7 +38,8 @@ When taking the log of population, it is evident that the district of Jebel Sama
 
 ## An Examination of Predictions of Populations versus Actual
 ### Syria
-
+! [](part1stretch1.png)
+!
 
 ### Damascus
 ! [](damascus_diff colored.png)
