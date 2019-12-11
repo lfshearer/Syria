@@ -40,7 +40,9 @@ When taking the log of population, it is evident that the district of Jebel Sama
 ### Syria
 ! [](population_logpop.png)
 ! [](diffpop_logpop)
-! [](diffpop_logpop)
+! [](diff_logpop.png)
+! [](cellStats)
+
 
 ### Damascus
 ! [](damascus_diff colored.png)
