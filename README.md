@@ -45,12 +45,17 @@ When taking the log of population, it is evident that the district of Jebel Sama
 
 ![](diff_logpop.png)
 
-![](cellStats)
+![](https://github.com/lfshearer/final_project/blob/master/cellStats.png)
 
-The model that produces the best results is the response variable logpop with the predictors being the mean of covariates. Almost all of Syria is green, indicating the population prediction was quite close to the actual. In addition, the absolute value of the difference is 27974215, the lowest of each of the predictors. There is a slightly raised area around Damascus, which was the area with the most inaccurate prediction. This is reasonable considering Damascus has a massive population, and therefore the most opportunity for discrepancy.
+The model that produces the best results is the response variable logpop with the predictors being the mean of covariates. Almost all of Syria is green, indicating the population prediction was quite close to the actual. The absolute value of the difference is 27974215.
+
+![](part1stretch1.png)
+
+Within the districts of Jebel Saman, Damascus, and Al-Malikeyyeh, the residual difference is the largest. The prediction model was not at all close to accurate, with the adjusted R-Squared being 0.0502. If these 3 major outliers were removed it would be somewhat more accurate. However, due to the population size of the districts, it isn't surprising that there is a discrepancy. Collecting accurate data in such a region is difficult. 
 
 ### Damascus
 
 ![](https://github.com/lfshearer/final_project/blob/master/damascus_diff%20colored.png)
 ![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-10-13%20at%207.44.42%20PM.png)
 
+Considering that Damascus is the second largest city, and has the highest density of all districts in Syria, it has the most opportunity for discrepancy. There is a large underprediction within the southwestern portion of the city, whereas in the northeast the population is overestimated.  This can also be observed in the residual plot above.
