@@ -2,7 +2,7 @@
 The following investigates The Arab Republic of Syria. It includes administrative subdivisions, spatial distributions, populations, topography, and infrastructure.
 
 ## A Basic Overview of Syria's Administrative Subdivisions
-! [] (part1_stretchgoal3.png)
+! [] (plot_zoom_png.pdf)
 
 ## Population of Syria's Governorates
 ! [] (part3_main.png)
