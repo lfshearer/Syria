@@ -34,3 +34,10 @@ When taking the log of population, it is evident that the district of Jebel Sama
 
 *Note: there is a discrepancy in the district boundaries between maps. The data I originally used was from HDX and had 62 districts, but was corrupt. I switched to data from GADM that has 60 districts.* 
 
+
+## An Examination of Predictions of Populations versus Actual
+### Syria
+
+
+### Damascus
+! [](damascus_diff colored.png)
