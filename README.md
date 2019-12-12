@@ -73,11 +73,30 @@ Above are the districts of A'zaz and Jarabulus, located in the governorate of Al
 #### Human Settlements
 Within the districts of A'zaz (to the west) and Jarabulus (to the east), the majority of urban settlements are concentrated near the eastern and western borders. A'zaz has more settlements, a higher population, and a higher density than does Jarabulus. This can be explained by the presence of water. Jarabulus lies within the Fertile Crescent, its eastern border next to the Euphrates. To the west of A'zaz, although outside the border of the district, is Maydanki Lake. The middle of the districts is relatively dry and mountainous.
 
+|District | Population | Urban Areas | Urban Population | % in Urban Areas |
+|---------|:----------:|:-----------:|:----------------:|:----------------:|
+|A'zaz    |
+|Jarabulus|
+|Total    |513,832     |12           |195,028           |38.0%             |
+
 #### Roadways
 It takes about three hours to cross the districts and get from A'zaz to Jarabulus on a secondary road. Roads tend to weave between mountains in valleys, as there is no way to go around them. The only primary roads located in the district run perpindicular to the generally horizontal shape of the area, disconnected from any major settlments or cities. There is a correlation between urban areas and junctions of secondary and tertiary roads within them. Regardless of the fact that the middle of the area is quite sparsely populated, it is relatively well connected to the eastern and western ends of the districts. 
 
+|District | Total Roadway Networks | Total Length | Classification (P,S,T) |
+|---------|:----------------------:|:------------:|:-----------------------|
+|A'zaz    |
+|Jarabulus|
+|Total    |908                     |2234.9km      |140, 219, 594           |
+
 #### Healthcare Facilities
 The state of healthcare within Jarabulus and A'zaz is dismal. The Syrian healthcare system is decentralized with 3 levels: village, district, and provincial, and has public and private aspects. There are only 4 healthcare facilities in the area, all to the complete west near the city of A'zaz. Those in southwest A'zaz or anywhere in Jarabulus face a long trip to a hospital, dangerous in an emergency. In addition to the uneven distribution of medical care, the infrastructure is incredibly degraded due to conflict, with a lack of supplies due to sanctions. The Syrian International Coalition for Health (SICH), created in 2012, attempts to tackle these problems. However, they have faced limited success. Because of the conflict, more injuries are caused and more healthcare facilities are destroyed, putting civilians in the area at an insanely high level of risk. 
+
+|District | Total Number of Facilities | Persons Per Hospital |
+|--------:|:--------------------------:|:---------------------|
+|A'zaz    |4 hospitals                 | 
+|Jarabulus|
+|Total    |4 hospitals                 |128,458               |
+
 
 ![](syria.jpg) *Left: a destroyed hospital in A'zaz. Worldvision. Below: Muhammed Wassim Maaz Hospital, A'zaz. Google Maps.*
 ![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-12-11%20at%207.46.16%20PM.png)
