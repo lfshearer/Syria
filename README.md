@@ -64,5 +64,4 @@ Considering that Damascus is the second largest city, and has the highest densit
 ## Human Settlements, Roadways, and Healthcare Facilities throughout A'zaz and Jarabulus, Syria
 ![](part2.png)
 
-![](combinedtopo.png)
 
