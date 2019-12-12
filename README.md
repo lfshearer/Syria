@@ -75,8 +75,8 @@ Within the districts of A'zaz (to the west) and Jarabulus (to the east), the maj
 
 |District | Population | Urban Areas | Urban Population | % in Urban Areas |
 |---------|:----------:|:-----------:|:----------------:|:----------------:|
-|A'zaz    |
-|Jarabulus|
+|A'zaz    |399,618     |10           |166,616           |32.5%
+|Jarabulus|114,214     |2            |28,410            |5.5%
 |Total    |513,832     |12           |195,028           |38.0%             |
 
 #### Roadways
@@ -84,18 +84,18 @@ It takes about three hours to cross the districts and get from A'zaz to Jarabulu
 
 |District | Total Roadway Networks | Total Length | Classification (P,S,T) |
 |---------|:----------------------:|:------------:|:-----------------------|
-|A'zaz    |
-|Jarabulus|
-|Total    |908                     |2234.9km      |140, 219, 594           |
+|A'zaz    |368                     |859.8km       |29, 55, 284             |
+|Jarabulus|249                     |750.7km       |78, 57, 156             |
+|Total    |617                     |1,610.5km     |140, 219, 594           |
 
 #### Healthcare Facilities
 The state of healthcare within Jarabulus and A'zaz is dismal. The Syrian healthcare system is decentralized with 3 levels: village, district, and provincial, and has public and private aspects. There are only 4 healthcare facilities in the area, all to the complete west near the city of A'zaz. Those in southwest A'zaz or anywhere in Jarabulus face a long trip to a hospital, dangerous in an emergency. In addition to the uneven distribution of medical care, the infrastructure is incredibly degraded due to conflict, with a lack of supplies due to sanctions. The Syrian International Coalition for Health (SICH), created in 2012, attempts to tackle these problems. However, they have faced limited success. Because of the conflict, more injuries are caused and more healthcare facilities are destroyed, putting civilians in the area at an insanely high level of risk. 
 
-|District | Total Number of Facilities | Persons Per Hospital |
+|District | Total Number of Facilities | Persons Per Facility |
 |--------:|:--------------------------:|:---------------------|
-|A'zaz    |4 hospitals                 | 
-|Jarabulus|
-|Total    |4 hospitals                 |128,458               |
+|A'zaz    |4 hospitals, 0 clinics      |99,905                |
+|Jarabulus|0 hospitals, 0 clinics      |28,553                |
+|Total    |4 hospitals , 0 clinics     |128,458               |
 
 
 ![](syria.jpg) *Left: a destroyed hospital in A'zaz. Worldvision. Below: Muhammed Wassim Maaz Hospital, A'zaz. Google Maps.*
