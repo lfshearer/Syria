@@ -62,10 +62,20 @@ Considering that Damascus is the second largest city, and has the highest densit
 
 
 ## Human Settlements, Roadways, and Healthcare Facilities throughout A'zaz and Jarabulus, Syria
-![](part2.png)
-Above are the districts of A'zaz and Jarabulus, located in the governorate of Aleppo. A'zaz is to the west and Jarabulus to the east. Both districts border Turkey. Most of the urban areas and population are concentrated on the western border of A'zaz. The rest are mainly located on the eastern border of Jarabulus. 
+![](urbanupdated.png)
+Above are the districts of A'zaz and Jarabulus, located in the governorate of Aleppo. A'zaz is to the west and Jarabulus to the east. Both districts border Turkey. Most of the urban areas and population are concentrated on the western border of A'zaz. The rest are mainly located on the eastern border of Jarabulus. Although several junctions occur between roads in urban areas throughout the districts, they tend to be secondary and tertiary. The primary roads are located in the middle, 
+
+
 
 ![](Rplot.png) 
 ![](ezgif.com-video-to-gif.gif)
 
+#### Human Settlements
+Within the districts of A'zaz (to the west) and Jarabulus (to the east), the majority of urban settlements are concentrated near the eastern and western borders. A'zaz has more settlements, a higher population, and a higher density than does Jarabulus. This can be explained by the presence of water. Jarabulus lies within the Fertile Crescent, its eastern border next to the Euphrates. To the west of A'zaz, although outside the border of the district, is Maydanki Lake. The middle of the districts is relatively dry and mountainous.
+
+#### Roadways
+It takes about three hours to cross the districts and get from A'zaz to Jarabulus on a secondary road. Roads tend to weave between mountains in valleys, as there is no way to go around them. The only primary roads located in the district run perpindicular to the generally horizontal shape of the area, disconnected from any major settlments or cities. There is a correlation between urban areas and junctions of secondary and tertiary roads within them. Regardless of the fact that the middle of the area is quite sparsely populated, it is relatively well connected to the eastern and western ends of the districts. 
+
+#### Healthcare Facilities
+The state of healthcare within Jarabulus and A'zaz is dismal. The Syrian healthcare system is decentralized with 3 levels: village, district, and provincial, and has public and private aspects. There are only 4 healthcare facilities in the area, all to the complete west near the city of A'zaz. Those in southwest A'zaz or anywhere in Jarabulus face a long trip to a hospital, dangerous in an emergency. In addition to the uneven distribution of medical care, the infrastructure is incredibly degraded due to conflict, with a lack of supplies due to sanctions. The Syrian International Coalition for Health (SICH), created in 2012, attempts to tackle these problems. However, they have faced limited success.
 
