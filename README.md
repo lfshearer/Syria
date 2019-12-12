@@ -63,5 +63,9 @@ Considering that Damascus is the second largest city, and has the highest densit
 
 ## Human Settlements, Roadways, and Healthcare Facilities throughout A'zaz and Jarabulus, Syria
 ![](part2.png)
+Above are the districts of A'zaz and Jarabulus, located in the governorate of Aleppo. A'zaz is to the west and Jarabulus to the east. Both districts border Turkey. Most of the urban areas and population are concentrated on the western border of A'zaz. The rest are mainly located on the eastern border of Jarabulus. 
+
+![](Rplot.png) 
+![](ezgif.com-video-to-gif.gif)
 
 
