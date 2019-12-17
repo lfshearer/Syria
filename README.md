@@ -58,7 +58,7 @@ Within the districts of Jebel Saman, Damascus, and Al-Malikeyyeh, the residual d
 
 ### Damascus
 
-![](https://github.com/lfshearer/final_project/blob/master/damascus_diff%20colored.png)
+![](damascusdiffcolored.png)
 ![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-10-13%20at%207.44.42%20PM.png)
 
 Considering that Damascus is the second largest city, and has the highest density of all districts in Syria, it has the most opportunity for discrepancy. There is a large underprediction within the southwestern portion of the city, whereas in the northeast the population is overestimated.  This can also be observed in the residual plot above.
