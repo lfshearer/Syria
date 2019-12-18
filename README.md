@@ -39,13 +39,10 @@ When taking the log of population, it is evident that the district of Jebel Sama
 ## An Examination of Predictions of Populations versus Actual
 ### Syria
 
-![](population_logpop.png) ![](diff_logpop.png)
+![](untitled.png)
 
-*Left: actual logpop of population; Right: difference in prediction of logpop vs actual*
-
-![](diffpop_logpop)
-
-*A 3D model of the difference in prediction of logpop vs actual. The model is actually relatively accurate, however underestimates population particularly in the heavily populated west.*
+*Left: actual logpop of population; Right: difference in prediction of logpop vs actual.*
+*Bottom: A 3D model of the difference in prediction of logpop vs actual. The model is actually relatively accurate, however underestimates population particularly in the heavily populated west.*
 
 
 ![](https://github.com/lfshearer/final_project/blob/master/cellStats.png)
