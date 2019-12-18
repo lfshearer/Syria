@@ -4,7 +4,7 @@ The following investigates The Arab Republic of Syria. It includes administrativ
 
 ## A Basic Overview of Syria's Administrative Subdivisions
 ### Focus on Aleppo and Damascus
-![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-12-17%20at%206.27.16%20PM.png)
+![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-12-17%20at%208.51.59%20PM.png)
 Syria has 14 governorates, or district 1 levels; there are 60 districts, or district 2 levels. Highlighted in orange are the districts of Jarablus and A'zaz located in the governorate of Aleppo. The aforementioned are the districts I chose to focus on throughout the project.
 
 
