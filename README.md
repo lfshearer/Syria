@@ -4,7 +4,7 @@ The following investigates The Arab Republic of Syria. It includes administrativ
 
 ## A Basic Overview of Syria's Administrative Subdivisions
 ### Focus on Aleppo and Damascus
-![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-12-17%20at%208.51.59%20PM.png)
+![](plotfinal.png)
 Syria has 14 governorates, or district 1 levels; there are 60 districts, or district 2 levels. Highlighted in orange are the districts of Jarablus and A'zaz located in the governorate of Aleppo. The aforementioned are the districts I chose to focus on throughout the project.
 
 
@@ -98,6 +98,4 @@ The state of healthcare within Jarabulus and A'zaz is dismal. The Syrian healthc
 |Total    |4 hospitals , 0 clinics     |128,458               |
 
 
-![](syria.jpg) *Left: a destroyed hospital in A'zaz. Worldvision. Below: Muhammed Wassim Maaz Hospital, A'zaz. Google Maps.*
-![](https://github.com/lfshearer/final_project/blob/master/Screen%20Shot%202019-12-11%20at%207.46.16%20PM.png)
-
+![](syria.jpg) *Left: a destroyed hospital in A'zaz. Worldvision.*
